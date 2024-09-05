@@ -1,4 +1,4 @@
-fastf1==3.4.0
+fastf1
 streamlit
 numpy
 plotly
