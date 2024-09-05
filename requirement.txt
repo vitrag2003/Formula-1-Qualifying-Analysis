@@ -1,5 +1,5 @@
+fastf1==3.4.0
 streamlit
-fastf1
 numpy
 plotly
 pandas
